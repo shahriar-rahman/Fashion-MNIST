@@ -1,0 +1,5 @@
+•Dataset Link:
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
+•Extraction:
+Download and extract the "fashion-mnist_train.csv" and "fashion-mnist_test.csv" inside this folder
